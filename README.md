@@ -25,3 +25,22 @@ This project is an **automation framework for Daraz** built using **Selenium Web
 1. Clone the repository:  
    ```bash
    git clone https://github.com/MehwishKhanMK/daraz-automation-pom.git
+
+
+
+2. Open the project in IntelliJ IDEA or any Java IDE.
+
+3. Make sure ChromeDriver and WebDriverManager dependencies are configured.
+
+4. Run the DarazTest.java class to execute the automation scripts.
+
+Notes
+
+Brand filter may need updating if Daraz changes its website layout.
+
+Ensure a stable internet connection while running the automation.
+
+**Author
+
+Mehwish Khan – QA Intern
+Email: mwsk2004@gmail.com**
