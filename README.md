@@ -34,13 +34,13 @@ This project is an **automation framework for Daraz** built using **Selenium Web
 
 4. Run the DarazTest.java class to execute the automation scripts.
 
-Notes
+## Notes
 
 Brand filter may need updating if Daraz changes its website layout.
 
 Ensure a stable internet connection while running the automation.
 
-**Author
+## Author
 
 Mehwish Khan – QA Intern
-Email: mwsk2004@gmail.com**
+Email: mwsk2004@gmail.com
